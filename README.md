@@ -16,8 +16,8 @@
 * This project aims to detect facial region and plot landmark points in an image.
 * It uses `cv2` and `dlib` library for the same. //explain
 * dat file
-* txt file
-* jawline + curve
+* The output is in the form of a text file, which contains coordinates of all the 68 landmark points of each face detected in the image.
+* The output also shows an image, wherein along with the landmarks, the jawline of the individual can also be traced.
 
 
 ## Output	
