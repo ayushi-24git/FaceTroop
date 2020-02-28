@@ -27,4 +27,4 @@
 
 
 ## Output	
-![screenshot](hike_scr.png)
+![screenshot](output.png)
