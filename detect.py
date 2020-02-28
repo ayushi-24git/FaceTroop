@@ -13,7 +13,7 @@ path_img = 'face2.jpg'
 path_dat = 'shape_predictor_68_face_landmarks.dat'
 
 
-# initializes dlib's face detector
+# initializes dlib's face detector.
 detector = dlib.get_frontal_face_detector()
 
 #creates landmark points
