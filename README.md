@@ -1,6 +1,6 @@
-## USE PYTHON 3x
+### Use Python 3x
 
-## INSTALLATION GUIDE:
+## Installation Guide:
 
 ## Install virtual environment: 
 `virtualenv -p python3 envname` 
@@ -17,7 +17,7 @@
 * It uses `cv2` and `dlib` library for the same. 
 * `dlib` is a C++ toolkit for plotting facial  landmark  points.
 * The `dat file` enables to load the pretrained facial landmark predictor using the path to the supplied shape-predictor.
-* The output is in the form of a text file, which contains coordinates of all the 68 landmark points of each face detected in the image.
+* The text file output contains coordinates of all the 68 landmark points of each face detected in the image.
 * The output also shows an image, wherein along with the landmarks, the jawline of the individual can also be traced.
 
 
