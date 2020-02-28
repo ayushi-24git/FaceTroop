@@ -3,9 +3,9 @@
 ## Installation Guide:
 
 ## Prerequisites for installing dlib:
-`$ sudo apt-get install build-essential cmake`
-`$ sudo apt-get install libgtk-3-dev`
-`$ sudo apt-get install libboost-all-dev`
+* `$ sudo apt-get install build-essential cmake`
+* `$ sudo apt-get install libgtk-3-dev`
+* `$ sudo apt-get install libboost-all-dev`
 
 ## Install virtual environment: 
 `virtualenv -p python3 envname` 
