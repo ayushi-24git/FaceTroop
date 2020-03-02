@@ -9,7 +9,7 @@ import cv2
 #image path
 path_img = 'face2.jpg'
 
-#output stored in file 
+
 path_dat = 'shape_predictor_68_face_landmarks.dat'
 
 
